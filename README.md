@@ -1,4 +1,4 @@
-This is a TODO App created using react and CSS.The screenshot of the website is given below.
+This is a TODO App created using react and CSS.The screenshots of the website is given below.
 
 ![Screenshot 2024-09-17 204306](https://github.com/user-attachments/assets/0dc202d2-8b43-48cb-b71f-6ed395da7a33)
 
